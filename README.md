@@ -2,6 +2,8 @@
 
 ### Description:
 Mathematical World is an Android game where players solve mathematical equations in a grid-based format. The game challenges players to fill in the grid with numbers and arithmetic operators to form valid equations, striving to match a randomly generated equation.
+![image](https://github.com/TajnyReddy/Mathematical-Wordle-Clone/assets/59600478/767c78b0-696c-487c-b899-125731a5098d)
+
 
 ### Features:
 * Grid-based gameplay where players input numbers and operators to form equations.
