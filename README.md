@@ -1,9 +1,9 @@
-#Mathematical World - Android Game
+# Mathematical World - Android Game
 
-###Description:
+### Description:
 Mathematical World is an Android game where players solve mathematical equations in a grid-based format. The game challenges players to fill in the grid with numbers and arithmetic operators to form valid equations, striving to match a randomly generated equation.
 
-###Features:
+### Features:
 *Grid-based gameplay where players input numbers and operators to form equations.
 *Randomly generated equations for each game session.
 *Visual feedback on equation correctness through color-coded cells.
